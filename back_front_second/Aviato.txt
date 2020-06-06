@@ -1,0 +1,3 @@
+Project installed
+Python Django
+2.7./3.2.
